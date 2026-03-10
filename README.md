@@ -29,7 +29,7 @@ A couple of open-source tools I've shipped:
 
 | Repo | What It Does | Stack |
 |------|-------------|-------|
-| [`claude-parallel-sessions`](https://github.com/phil-cheesman/claude-parallel-sessions) | Run 4+ Claude Code agents in parallel on the same codebase with per-session file tracking and clean commits | Python · ⭐ 6 |
+| [`claude-parallel-sessions`](https://github.com/phil-cheesman/claude-parallel-sessions) | Parallel Claude Code agents with per-session file tracking and clean commits | Python · ⭐ 6 |
 | [`mcp-odbc`](https://github.com/phil-cheesman/mcp-odbc) | MCP Server for connecting AI agents to any ERP/database via ODBC | Python |
 
 ---
